@@ -1,8 +1,6 @@
 # C.elegans-Vision-AI-Tracker-based-on-U-net
 Bright Field Image 또는 Video에서 C.elegans의 연령 L1, L4, Adult의 Feature를 U-net 기반 Vision AI 모델을 이용해서 검출하는 프로젝트
 
-# C.elegans-Vision-AI-Tracker-based-on-U-Net
-
 ## Overview
 
 C.elegans-Vision-AI-Tracker는 Bright Field Microscopy Image 및 Video에서 C. elegans를 자동으로 검출하고, 연령(Stage)을 분류하며, 향후 Tracking 및 Behavioral Analysis까지 수행하기 위한 Vision AI 기반 분석 플랫폼이다.
