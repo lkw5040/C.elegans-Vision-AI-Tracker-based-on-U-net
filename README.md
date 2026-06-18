@@ -68,6 +68,10 @@ Annotation 방식은 Semantic Segmentation 기반 Pixel-Level Labeling을 사용
 
 ### Training Strategy
 
+<img width="512" height="512" alt="frame_00000" src="https://github.com/user-attachments/assets/0c7c1079-b218-449b-8261-486b2faabd7a" />
+<img width="512" height="512" alt="frame_00000m" src="https://github.com/user-attachments/assets/11e5e497-b195-42d2-a23b-609b26896d94" />
+
+
 현미경 영상에서는 Worm가 이미지 전체에서 차지하는 비율이 매우 작기 때문에 Background Dominance 문제가 발생한다.
 
 이를 해결하기 위해 다음 전략을 적용하였다.
